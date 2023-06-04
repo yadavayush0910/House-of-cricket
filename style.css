@@ -1,0 +1,99 @@
+*{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.navbar{
+    background-color: rgba(20, 20, 79, 0.844);
+    padding: 10px;
+    top:0;
+    margin-left: 0px;
+
+}
+a{
+    color: rgb(254, 254, 254);
+}
+.navbar a{
+    margin-left: 30px;
+}
+body{
+    margin: 0;
+    margin-left: 0;
+}
+.float-right{
+    float: right;
+}
+.btn{
+    padding: 3px 10px 5px 10px;
+    border-radius: 5%;
+}
+.btn-primary{
+font-style: italic;
+}
+.btn-warning{
+    font-style: italic;
+}
+.mt-top{
+    margin-top: 1px;
+}
+.card{
+    float: left;
+    
+}
+.row{
+    display: flex;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.col-2{
+    width: 50%;
+}
+.col-3{
+    width: 33.33%;
+}
+.col-4{
+    width: 25%;
+}
+.mt-10px{
+    margin-top: 10px;
+}
+.card{
+    border: 1px solid black;
+    padding: 30px;
+    margin-left: 9px;
+}
+.text-center{
+    text-align: center;
+}
+.words{
+    font-style: italic;
+}
+img{
+    width: 100%;
+    text-align: center;
+}
+.MATCHES{
+    color: black;
+    font-style: italic;
+}
+.text-primary{
+    color: blue;
+}
+.footer{
+    background-color: aqua;
+    padding: 10px;
+}
+P-5{
+    padding: 20px;
+}
+.border{
+  
+    
+}
+.sizeofpic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.coloroflink{
+    color: black;
+}
